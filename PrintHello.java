@@ -5,5 +5,6 @@ public class PrintHello {
         GetMethod getMethod = new GetMethod();
         getMethod.getName();
         getMethod.getNum();
+        getMethod.getSum();
     }
 }

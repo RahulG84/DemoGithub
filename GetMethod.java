@@ -5,5 +5,8 @@ public class GetMethod {
     void getNum(){
         System.out.println("Num 1");
     }
+    void getSum(){
+        System.out.println("Sum");
+    }
 
 }
